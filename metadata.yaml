@@ -1,0 +1,64 @@
+_repo: Platero-y-yo_9980
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Onís, Federico de
+    aliases:
+    - Sánchez, Federico de Onís y
+    - Sanchez, Federico de Onis y
+    birthdate: 1885
+    deathdate: 1966
+    gutenberg_agent_id: '40761'
+    url: http://www.gutenberg.org/2009/agents/40761
+  illustrators:
+  - agent_name: Petersham, Miska
+    aliases:
+    - Petrezselyem, Mihaly
+    - Petrezselyem, Mihály
+    birthdate: 1888
+    deathdate: 1960
+    gutenberg_agent_id: '31374'
+    url: http://www.gutenberg.org/2009/agents/31374
+    wikipedia: http://en.wikipedia.org/wiki/Maud_and_Miska_Petersham
+  - agent_name: Petersham, Maud
+    aliases:
+    - Petersham, Maud Fuller
+    - Fuller, Maud
+    birthdate: 1890
+    deathdate: 1971
+    gutenberg_agent_id: '31375'
+    url: http://www.gutenberg.org/2009/agents/31375
+    wikipedia: http://en.wikipedia.org/wiki/Maud_and_Miska_Petersham
+creator:
+  author:
+    agent_name: Jiménez, Juan Ramón
+    aliases:
+    - Mantecón, Juan Ramón Jiménez
+    - Mantecon, Juan Ramon Jimenez
+    birthdate: 1881
+    deathdate: 1958
+    gutenberg_agent_id: '3230'
+    url: http://www.gutenberg.org/2009/agents/3230
+    wikipedia: http://en.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez
+  editor:
+    agent_name: Walsh, Gertrude M. (Gertrude Margaret)
+    birthdate: 1884
+    gutenberg_agent_id: '39667'
+    url: http://www.gutenberg.org/2009/agents/39667
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9980'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Andalusia (Spain) -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Donkeys -- Fiction'
+- !lcsh 'Authors -- Fiction'
+- GITenberg
+title: Platero y yo
+url: http://www.gutenberg.org/ebooks/9980
