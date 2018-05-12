@@ -1,5 +1,5 @@
 _repo: Platero-y-yo_9980
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Onís, Federico de
@@ -29,6 +29,9 @@ contributor:
     gutenberg_agent_id: '31375'
     url: http://www.gutenberg.org/2009/agents/31375
     wikipedia: http://en.wikipedia.org/wiki/Maud_and_Miska_Petersham
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jiménez, Juan Ramón
@@ -46,6 +49,8 @@ creator:
     gutenberg_agent_id: '39667'
     url: http://www.gutenberg.org/2009/agents/39667
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9980#Platero-y-yo
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
